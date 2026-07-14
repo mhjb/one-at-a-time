@@ -16,13 +16,14 @@ From the same popup you can set the **background**: default (matches the X theme
 
 Based on [this tweet](https://x.com/RichDecibels/status/2076763798669574304) by @RichDecibels.
 
-## Install (load unpacked)
+## Install
 
-1. Unzip `one-at-a-time.zip` somewhere permanent (don't delete the folder — the extension runs from it).
-2. Open `chrome://extensions` (or `edge://extensions`).
-3. Turn on **Developer mode** (top-right toggle).
-4. Click **Load unpacked** and select the `one-at-a-time` folder.
-5. Go to [x.com](https://x.com) and click the **🎯 One at a Time** button in the bottom-right corner.
+1. Unzip `one-at-a-time.zip` to a permanent folder (the extension runs from it).
+2. Open `chrome://extensions` and turn on **Developer mode** (top-right).
+3. Click **Load unpacked** and select the `one-at-a-time` folder.
+4. Open [x.com/home](https://x.com/home) — it starts automatically.
+
+Updating a previously installed copy? Click **Remove**, then repeat the steps above.
 
 ## How it works
 
